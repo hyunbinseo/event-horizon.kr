@@ -5,16 +5,19 @@
 예를 들어 [event-horizon.kr/melon](https://event-horizon.kr/melon)는 멜론🍈으로 연결됩니다.
 
 ```bash
-# Youtube @YOUNHAOFFICIAL
+# Event Horizon | Youtube @YOUNHAOFFICIAL
 /               https://youtu.be/BBdC1rl5sKY?t=8
+/mv             https://youtu.be/BBdC1rl5sKY?t=8
 /demo           https://youtu.be/ScBycwiM-Do
 /ver0           https://youtu.be/ScBycwiM-Do
+/ver.0          https://youtu.be/ScBycwiM-Do
 /special        https://youtu.be/z1KLjaXHQVY?t=9
 /special-clip   https://youtu.be/z1KLjaXHQVY?t=9
 
-# Music Streaming Service
+# Event Horizon | Music Streaming Service
 /spotify        https://open.spotify.com/track/6RBziRcDeiho3iTPdtEeg9
 /youtube-music  https://music.youtube.com/watch?v=j1uXcHwLhHM
+/ytm            https://music.youtube.com/watch?v=j1uXcHwLhHM
 /melon          http://kko.to/sisrv9OVPM
 /genie          http://genie.co.kr/OM5OZ7
 /flo            https://www.music-flo.com/detail/track/elnodzned/details

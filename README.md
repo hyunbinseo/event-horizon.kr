@@ -23,3 +23,5 @@
 /apple          https://music.apple.com/kr/album/%EC%82%AC%EA%B1%B4%EC%9D%98-%EC%A7%80%ED%8F%89%EC%84%A0/1616649347?i=1616649362
 /apple-music    https://music.apple.com/kr/album/%EC%82%AC%EA%B1%B4%EC%9D%98-%EC%A7%80%ED%8F%89%EC%84%A0/1616649347?i=1616649362
 ```
+
+전체 목록은 [_redirects](_redirects) 파일에서 확인할 수 있습니다.

@@ -6,11 +6,11 @@
 
 ```bash
 # Youtube @YOUNHAOFFICIAL
-/               https://youtu.be/BBdC1rl5sKY
+/               https://youtu.be/BBdC1rl5sKY?t=8
 /demo           https://youtu.be/ScBycwiM-Do
 /ver0           https://youtu.be/ScBycwiM-Do
-/special        https://youtu.be/z1KLjaXHQVY
-/special-clip   https://youtu.be/z1KLjaXHQVY
+/special        https://youtu.be/z1KLjaXHQVY?t=9
+/special-clip   https://youtu.be/z1KLjaXHQVY?t=9
 
 # Music Streaming Service
 /spotify        https://open.spotify.com/track/6RBziRcDeiho3iTPdtEeg9
